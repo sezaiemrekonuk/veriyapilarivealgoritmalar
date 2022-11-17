@@ -1,4 +1,4 @@
-# Veri Yapıları ve Algoritmalar
+# Veri Yapıları ve Algoritmalar, www.patika.dev
 
 ## Selection Sort Projesi
 [22,27,16,2,18,6] -> Insertion Sort
